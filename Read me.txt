@@ -1,0 +1,9 @@
+Login as Admin:
+
+Username: admin@gmail.com
+Password: admin
+
+Login as Customer:
+
+Username: atiyah@gmail.com
+Password: atiyah@01
