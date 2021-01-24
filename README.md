@@ -45,4 +45,3 @@ SASYA Boutique Management System for SASYA Boutique is a system that will ease t
 The system will ensure the security in terms of keeping the record of product, customer and report safely in the database. Thus, it will keep the privacy and confidentiality of data such as daily purchasing and sales. The system also equipped with manageability of data to be retrieved from the database. Furthermore, the system also enables the user, which is the staff to insert, update or delete the data easily for example if there is a changes of product price the staff can edit the price according the setting price. The system also will provide an automatic calculation of total payment for every purchasing items by using barcode scanner. Lastly, the system will help the staff in generate the report for monthly sales of the boutique.
 
 For detail understanding, can go through SASYA Boutique Report.pdf document.
-
